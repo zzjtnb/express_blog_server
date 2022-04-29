@@ -1,0 +1,16 @@
+{
+  "cSpell.words": [
+    "appender",
+    "appenders",
+    "cnchar",
+    "commonmark",
+    "consola",
+    "consoleout",
+    "longtext",
+    "pageviews",
+    "stacktraces",
+    "tinyint",
+    "zzjtnb"
+  ],
+  "vue3snippets.enable-compile-vue-file-on-did-save-code": false
+}
